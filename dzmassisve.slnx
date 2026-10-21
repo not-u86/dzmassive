@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dzmassisve/dzmassisve.vcxproj" Id="4f9f4c22-92fa-4b7a-8aa0-5c08ec26fe2d" />
+</Solution>
